@@ -1,7 +1,5 @@
 function App() {
-  return (
-    <div>Project Start</div>
-  )
+  return <div>Hello World!</div>;
 }
 
-export default App
+export default App;
